@@ -20,7 +20,7 @@ func main () {
 	for line := range t.Lines {
 		fmt.Println(line.Text)
 		appendStringToFile(LOGS, line.Text + "\n")
-		time.Sleep(time.Millisecond * 100)
+		time.Sleep(time.Millisecond * 250)
 	}
 }
 
