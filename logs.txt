@@ -1,0 +1,119 @@
+
+ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+ETH: 5 pools are specified
+Main Ethereum pool is eth-us-west1.nanopool.org:9999
+AMD OpenCL platform not found 
+
+Driver 368.81 is recommended for best performance and compatibility
+Be careful with overclocking, use default clocks for first tests
+Press "s" for current statistics, "0".."9" to turn on/off cards, "r" to reload pools, "e" or "d" to select current pool 
+CUDA initializing...
+
+NVIDIA Cards available: 9 
+[1;32mCUDA Driver Version/Runtime Version: 9.0/8.0
+[0m[1;32mGPU #0: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #1: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #2: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #3: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #4: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #5: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #6: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #7: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #8: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mTotal cards: 9 
+[0mETH: Stratum - connecting to 'eth-us-west1.nanopool.org' <207.246.100.198> port 9999
+[1;32mETH: Stratum - Connected (eth-us-west1.nanopool.org:9999)
+[0m[0;36mETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+[0mETH: eth-proxy stratum mode
+Watchdog enabled
+Remote management (READ-ONLY MODE) is enabled on port 3333
+
+[1;32mETH: Authorized
+[0mSetting DAG epoch #176...
+ETH: 03/21/18-12:03:56 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+[0m[0;36mETH: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s, GPU2 0.000 Mh/s, GPU3 0.000 Mh/s, GPU4 0.000 Mh/s, GPU5 0.000 Mh/s, GPU6 0.000 Mh/s, GPU7 0.000 Mh/s, GPU8 0.000 Mh/s
+[0mSetting DAG epoch #176 for GPU3
+Setting DAG epoch #176 for GPU1
+Create GPU buffer for GPU3
+Setting DAG epoch #176 for GPU6
+Create GPU buffer for GPU1
+Create GPU buffer for GPU6
+Setting DAG epoch #176 for GPU7
+Create GPU buffer for GPU7
+Setting DAG epoch #176 for GPU5
+Setting DAG epoch #176 for GPU0
+Setting DAG epoch #176 for GPU4
+Setting DAG epoch #176 for GPU8
+Setting DAG epoch #176 for GPU2
+Create GPU buffer for GPU0
+Create GPU buffer for GPU4
+Create GPU buffer for GPU8
+Create GPU buffer for GPU2
+Create GPU buffer for GPU5
+GPU2 DAG creation time - 6525 ms
+Setting DAG epoch #176 for GPU2 done
+GPU1 DAG creation time - 6532 ms
+Setting DAG epoch #176 for GPU1 done
+GPU0 DAG creation time - 6530 ms
+Setting DAG epoch #176 for GPU0 done
+GPU6 DAG creation time - 6544 ms
+Setting DAG epoch #176 for GPU6 done
+GPU4 DAG creation time - 6517 ms
+Setting DAG epoch #176 for GPU4 done
+GPU7 DAG creation time - 6552 ms
+Setting DAG epoch #176 for GPU7 done
+GPU8 DAG creation time - 6530 ms
+Setting DAG epoch #176 for GPU8 done
+GPU3 DAG creation time - 6546 ms
+Setting DAG epoch #176 for GPU3 done
+GPU5 DAG creation time - 6536 ms
+Setting DAG epoch #176 for GPU5 done
+[1;32mETH: 03/21/18-12:04:07 - SHARE FOUND - (GPU 7)
+[0m[1;32mETH: Share accepted (192 ms)!
+[0m[1;32mETH: 03/21/18-12:04:11 - SHARE FOUND - (GPU 7)
+[0m[1;32mETH: Share accepted (194 ms)!
+[0m[0;35mGPU0 t=34C fan=50%, GPU1 t=32C fan=50%, GPU2 t=39C fan=50%, GPU3 t=35C fan=50%, GPU4 t=32C fan=50%, GPU5 t=35C fan=50%, GPU6 t=37C fan=50%, GPU7 t=34C fan=50%, GPU8 t=36C fan=50%
+[0mETH: 03/21/18-12:04:21 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.657 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:00
+[0m[0;36mETH: GPU0 30.983 Mh/s, GPU1 30.992 Mh/s, GPU2 30.993 Mh/s, GPU3 30.830 Mh/s, GPU4 30.985 Mh/s, GPU5 30.951 Mh/s, GPU6 30.953 Mh/s, GPU7 30.961 Mh/s, GPU8 31.008 Mh/s
+[0m[0;35mGPU0 t=38C fan=50%, GPU1 t=37C fan=50%, GPU2 t=43C fan=50%, GPU3 t=39C fan=50%, GPU4 t=37C fan=50%, GPU5 t=40C fan=50%, GPU6 t=42C fan=50%, GPU7 t=39C fan=50%, GPU8 t=41C fan=50%
+[0mETH: 03/21/18-12:04:56 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.557 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 30.990 Mh/s, GPU1 30.930 Mh/s, GPU2 30.995 Mh/s, GPU3 30.990 Mh/s, GPU4 30.955 Mh/s, GPU5 30.896 Mh/s, GPU6 30.988 Mh/s, GPU7 30.956 Mh/s, GPU8 30.858 Mh/s
+[0mETH: 03/21/18-12:05:04 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.612 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 30.976 Mh/s, GPU1 30.991 Mh/s, GPU2 30.969 Mh/s, GPU3 30.942 Mh/s, GPU4 30.988 Mh/s, GPU5 30.813 Mh/s, GPU6 30.976 Mh/s, GPU7 30.956 Mh/s, GPU8 31.000 Mh/s
+[0mETH: 03/21/18-12:05:11 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.640 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 30.964 Mh/s, GPU1 30.982 Mh/s, GPU2 30.938 Mh/s, GPU3 30.915 Mh/s, GPU4 30.943 Mh/s, GPU5 30.970 Mh/s, GPU6 30.981 Mh/s, GPU7 30.981 Mh/s, GPU8 30.967 Mh/s
+[0mETH: 03/21/18-12:05:13 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.041 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 30.925 Mh/s, GPU1 31.005 Mh/s, GPU2 30.764 Mh/s, GPU3 30.720 Mh/s, GPU4 31.010 Mh/s, GPU5 31.002 Mh/s, GPU6 30.984 Mh/s, GPU7 30.679 Mh/s, GPU8 30.951 Mh/s
+[0m[0;35mGPU0 t=41C fan=50%, GPU1 t=40C fan=50%, GPU2 t=46C fan=50%, GPU3 t=42C fan=50%, GPU4 t=40C fan=50%, GPU5 t=44C fan=50%, GPU6 t=45C fan=50%, GPU7 t=43C fan=50%, GPU8 t=44C fan=50%
+[0mETH: 03/21/18-12:05:22 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.469 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 30.711 Mh/s, GPU1 30.973 Mh/s, GPU2 30.992 Mh/s, GPU3 30.989 Mh/s, GPU4 30.983 Mh/s, GPU5 30.966 Mh/s, GPU6 30.982 Mh/s, GPU7 30.884 Mh/s, GPU8 30.988 Mh/s
+[0mETH: 03/21/18-12:05:32 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.510 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 30.991 Mh/s, GPU1 30.993 Mh/s, GPU2 30.949 Mh/s, GPU3 30.988 Mh/s, GPU4 30.978 Mh/s, GPU5 30.967 Mh/s, GPU6 30.777 Mh/s, GPU7 30.953 Mh/s, GPU8 30.913 Mh/s
+[0mETH: 03/21/18-12:05:35 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.692 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 31.003 Mh/s, GPU1 30.990 Mh/s, GPU2 30.971 Mh/s, GPU3 30.966 Mh/s, GPU4 30.863 Mh/s, GPU5 31.009 Mh/s, GPU6 30.979 Mh/s, GPU7 30.986 Mh/s, GPU8 30.925 Mh/s
+[0mETH: 03/21/18-12:05:38 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.091 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
+[0m[0;36mETH: GPU0 30.992 Mh/s, GPU1 30.942 Mh/s, GPU2 31.002 Mh/s, GPU3 30.979 Mh/s, GPU4 30.982 Mh/s, GPU5 30.469 Mh/s, GPU6 30.966 Mh/s, GPU7 30.774 Mh/s, GPU8 30.986 Mh/s
+[0mETH: 03/21/18-12:05:41 - New job from eth-us-west1.nanopool.org:9999
+[0;36mETH - Total Speed: 278.765 Mh/s, Total Shares: 2, Rejected: 0, Time: 00:01
